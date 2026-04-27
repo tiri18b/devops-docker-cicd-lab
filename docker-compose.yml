@@ -1,0 +1,9 @@
+services:
+  devops-api:
+    build: .
+    container_name: devops-docker-cicd-lab
+    ports:
+      - "8000:8000"
+    environment:
+      - APP_ENV=docker
+    restart: unless-stopped
