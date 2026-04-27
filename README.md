@@ -99,5 +99,5 @@ I built this project to demonstrate a complete DevOps workflow:
 - Docker Compose makes it easy to run the service in a local lab environment.
 
 ## Author
-Yehuda Benisti  
+Tiran Benisti  
 Email: tiri18b@gmail.com
